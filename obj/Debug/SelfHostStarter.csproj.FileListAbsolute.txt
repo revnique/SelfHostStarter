@@ -43,3 +43,7 @@ C:\git\SelfHostStarter\obj\Debug\SelfHostStarter.exe
 C:\git\SelfHostStarter\obj\Debug\SelfHostStarter.pdb
 C:\git\SelfHostStarter\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
 C:\git\SelfHostStarter\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\git\selfhoststarter\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\git\selfhoststarter\bin\Debug\Microsoft.Owin.StaticFiles.dll
+C:\git\selfhoststarter\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\git\selfhoststarter\bin\Debug\Microsoft.Owin.StaticFiles.xml
